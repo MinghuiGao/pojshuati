@@ -1,0 +1,5 @@
+1.declear native method in Class file.
+2.enter the src directory , execute command : javah $packageName.$ClassName
+3.use the *.h file to develop c/c++ programm
+4.copy the lib$libraryName.so to the lib directory under the project directory.
+5. call the native method in your java code.
